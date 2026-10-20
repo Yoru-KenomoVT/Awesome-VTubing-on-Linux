@@ -42,6 +42,10 @@ List of streaming software, VTuber avatar tools, and audio utilities for Linux-b
   Web-based Live2D face-tracking app (upload Live2D models to animate via webcam).  
   **Linux:** Native (browser)  
 
+- [Ayatsuri2D](https://ayatsuri-2d.org/)  
+  Free, open-source rigging editor for Live2D-style models: rig PSD, Krita or Clip Studio art, open Cubism Editor projects, and export moc3 for VTube Studio and other Live2D apps.  
+  **Linux:** Native (AppImage, .deb, .rpm)  
+
 - [VTube Studio](https://denchisoft.com/)  
   Live2D avatar capture/streaming app (Windows/macOS). Linux users run it via Steam Proton with OpenSeeFace for face tracking.  
   **Linux:** Via Proton (Steam)  
